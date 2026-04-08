@@ -1,3 +1,4 @@
+
 # V&V Evolution Intelligence System 🚀
 
 ![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)
@@ -15,13 +16,17 @@ Moving beyond standard static academia, this system allows users to dynamically 
 
 ## 📸 System Previews
 
-| Landing & Home Module | Simulation Dashboard |
+| Landing Page | Home Page |
 | :---: | :---: |
-| *![Placeholder: Landing Page](assets/placeholder_landing.png)* | *![Placeholder: Simulation Engine](assets/placeholder_simulation.png)* |
+| *![Placeholder: Landing Page](assets/image.png)* | *![Placeholder: Home Page](assets/image2.png)* |
 
-| Visual Analysis (Plotly) | AI Reasoning Engine |
+| Evolution Engine | Simulation Engine |
 | :---: | :---: |
-| *![Placeholder: Visual Graphs](assets/placeholder_visuals.png)* | *![Placeholder: AI Insights](assets/placeholder_ai.png)* |
+| *![Placeholder: Evolution Engine](assets/image3.png)* | *![Placeholder: Simulation Engine](assets/image4.png)* |
+
+| AI Reasoning Engine |
+| :---: |
+| *![Placeholder: AI Insights](assets/image5.png)* |
 
 ---
 
@@ -113,7 +118,11 @@ streamlit run app.py
 
 ---
 
-## 🛡️ License
-Distributed under the **MIT License**. See `LICENSE` for more information.
+## 💻 Developer Details
 
-*Built for educational and demonstration purposes outlining system reliability engineering principles.*
+**Sagar Thapliyal**  
+
+*   **GitHub:** [@sagarvk24](https://github.com/sagarvk24)
+*   **Project Context:** Semester 8 | Software Reliability Testing (SRT)
+
+> *"Aiming to bridge the gap between academic theory and interactive systems architecture."*
